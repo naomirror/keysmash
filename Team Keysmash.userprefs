@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\flagSel.cs">
+    <Files>
+      <File FileName="Assets\scripts\flagSel.cs" Line="282" Column="14" />
+      <File FileName="Assets\scripts\restart.cs" Line="16" Column="29" />
+      <File FileName="Assets\scripts\Persons.cs" Line="5" Column="4" />
+      <File FileName="Assets\next.cs" Line="15" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

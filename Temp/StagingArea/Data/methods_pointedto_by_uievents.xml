@@ -1,0 +1,24 @@
+<linker>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="MainMenu">
+			<method name="GameStart"/>
+			<method name="ExitGame"/>
+		</type>
+		<type fullname="Settings">
+			<method name="SetVolume"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.AudioSource">
+			<method name="Stop"/>
+		</type>
+	</assembly>
+</linker>
